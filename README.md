@@ -6,7 +6,7 @@
 
 ## 🚀 My Projects
 - 🌐 [Portfolio Website](https://dharm-vashisth.github.io/)
-- 🗣️ [Text-to-Speech Python App](https://github.com/dharm-vashisth/text-to-speech)
+- 🗣️ [Text-to-Speech Python App](https://github.com/dharm-vashisth/python/blob/main/Milestones/my_words.py)
 
 ## 🛠️ Tools & Technologies:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
