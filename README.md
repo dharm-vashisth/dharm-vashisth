@@ -12,12 +12,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📊 GitHub Stats:
+
 ![Dharm's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dharm-vashisth&theme=react-dark)
 
-[//]: # (![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=dharm-vashisth&layout=compact&theme=dark&#41;)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dharm-vashisth&langs_count=10)
+
+[//]: # (&#40;![Top Languages]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=dharm-vashisth&layout=compact&theme=dark&#41;&#41;)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dharm-vashisth&show_icons=true&theme=dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharm-vashisth&theme=dark)
 
 ## 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-Dharm%20Vashisth-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharm-vashisth/)](https://www.linkedin.com/in/dharm-vashisth/)
-
