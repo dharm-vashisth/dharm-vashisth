@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Dharm Vashisth
 
-- 🌱 I’m continue learning **Data Engineering**.
+- 🌱 I continue learning **Data Engineering**.
 - 🧑‍💻 3.5+ years of experience as a Data Engineer.
 - ⚡ Fun fact: I enjoy coding and playing musical instrument.
 
